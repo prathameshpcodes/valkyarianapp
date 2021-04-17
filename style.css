@@ -9,6 +9,9 @@ body{
      /* background-image: url(gottt.png);*/
     
 }
+span {
+    color: #58a6f3;
+}
 
 nav{
     margin-top: 0.5em;
