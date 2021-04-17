@@ -10,7 +10,7 @@ body{
     
 }
 .title {
-    color: #58a6f3;
+    color: #0685d7;
 }
 
 nav{
@@ -61,7 +61,7 @@ button{
     margin-right: auto;
     margin-top: 3em;
     border-radius: 1.3em;
-    border: solid 1px #58a6f3;
+    border: solid 1px #0685d7;
     color:white;
 
 }
